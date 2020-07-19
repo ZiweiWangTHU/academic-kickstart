@@ -1,19 +1,19 @@
 ---
 title: Ziwei Wang
-role: Phd Candidate
+role: PhD Candidate
 avatar_filename: avatar.jpg
 organizations:
-  - name: Tsinghua University
+  - name: Department of Automation, Tsinghua University
     url: ""
 superuser: true
 authors:
   - admin
 bio: My research interests include model compression, compact representation
-  learning, event data processing and visual reasoning.
+  learning and visual reasoning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Model Compression
+  - Compact Representation Learning
+  - Visual Reasoning
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -23,14 +23,15 @@ social:
     link: https://github.com/ZiweiWangTHU
 education:
   courses:
+    - course: PhD in Signal Processing
+      institution: Tsinghua University
+      year: ""
     - course: BSc in Maths and Physics
       institution: Tsinghua University
-      year: 2018
+      year: ""
 email: wang-zw18@mails.tsinghua.edu.cn
 user_groups:
   - ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ziwei Wang is a PhD candidate at the Intelligent Vision Group (IVG), Department of Automation, Tsinghua University, advised by Prof. Jiwen Lu. His research interests include model compression, compact representation learning and visual reasoning. He has published 7 scientific papers in the IEEE Transactions on Pattern Analysis and Machine Intelligence, CVPR and ECCV. He serves as a
+regular reviewer member for the IEEE Transactions on Image Processing, Pattern Recognition Letters, CVPR, NeurIPS, ICPR and ICIP.
