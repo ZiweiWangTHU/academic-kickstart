@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - admin
+  - Ziwei Wang
 bio: My research interests include model compression, compact representation
   learning and visual reasoning.
 interests:
@@ -33,5 +33,4 @@ email: wang-zw18@mails.tsinghua.edu.cn
 user_groups:
   - ""
 ---
-Ziwei Wang is a PhD candidate at the Intelligent Vision Group (IVG), Department of Automation, Tsinghua University, advised by Prof. Jiwen Lu. His research interests include model compression, compact representation learning and visual reasoning. He has published 7 scientific papers in the IEEE Transactions on Pattern Analysis and Machine Intelligence, CVPR and ECCV. He serves as a
-regular reviewer member for the IEEE Transactions on Image Processing, Pattern Recognition Letters, CVPR, NeurIPS, ICPR and ICIP.
+Ziwei Wang is a PhD candidate at the Intelligent Vision Group (IVG), Department of Automation, Tsinghua University, advised by Prof. Jiwen Lu. His research interests include model compression, compact representation learning and visual reasoning. He has published 7 scientific papers in the IEEE Transactions on Pattern Analysis and Machine Intelligence, CVPR and ECCV. He serves as a regular reviewer member for the IEEE Transactions on Image Processing, Pattern Recognition Letters, CVPR, NeurIPS, ICPR and ICIP.
