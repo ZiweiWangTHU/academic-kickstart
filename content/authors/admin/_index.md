@@ -23,10 +23,10 @@ social:
     link: https://github.com/ZiweiWangTHU
 education:
   courses:
-    - course: PhD in Signal Processing
+    - course: PhD in Signal Processing, 2018-present
       institution: Tsinghua University
       year: ""
-    - course: BSc in Maths and Physics
+    - course: BSc in Maths and Physics, 2014-2018
       institution: Tsinghua University
       year: ""
 email: wang-zw18@mails.tsinghua.edu.cn
