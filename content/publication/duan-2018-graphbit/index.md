@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*CVPR*"
 url_pdf: https://openaccess.thecvf.com/content_cvpr_2018/papers/Duan_GraphBit_Bitwise_Interaction_CVPR_2018_paper.pdf
+url_code: https://github.com/ZiweiWangTHU/GraphBit
 ---
 
