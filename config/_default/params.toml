@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "wang-zw18@mails.tsinghua.edu.cn"
-#phone = "888 888 88 88"
+phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ address = {street = "Tsinghua University", city = "Beijing", region = "Beijing",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.97", longitude = "116.33"}
+coordinates = {latitude = "39.98", longitude = "116.3299"}
 
 # Directions for visitors to locate you.
 directions = "Enter Main Building and take the elevator to Office 624 on Floor 6"
