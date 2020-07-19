@@ -8,8 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include model compression, compact representation
+  learning, event data processing and visual reasoning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
