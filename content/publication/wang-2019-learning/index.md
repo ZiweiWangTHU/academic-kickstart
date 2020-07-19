@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*CVPR*"
 url_pdf: https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Channel-Wise_Interactions_for_Binary_Convolutional_Neural_Networks_CVPR_2019_paper.pdf
+url_code: https://github.com/ZiweiWangTHU/CI-BCNN
 ---
 
