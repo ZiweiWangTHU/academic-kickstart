@@ -1,7 +1,7 @@
 ---
 title: Ziwei Wang
 role: Phd Candidate
-avatar_filename: icon.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Tsinghua University
     url: ""
