@@ -97,7 +97,7 @@ address = {street = "Tsinghua University", city = "Beijing", region = "Beijing",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.00", longitude = "116.329"}
+coordinates = {latitude = "39.999", longitude = "116.325"}
 
 # Directions for visitors to locate you.
 directions = "Enter Main Building and take the elevator to Office 624 on Floor 6"
